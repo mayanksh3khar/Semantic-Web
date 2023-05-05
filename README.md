@@ -1,11 +1,6 @@
 # Semantic Web Technologies Project
-## 7th Semester - Semantic Web
-## Group Members:-
 
 ### Mayank Shekhar - RA1911003010879
-### Krishna Khawas - RA1911003010877
-### Bharadwaj Sai Bandaru - RA1911003010848
-### Pulkit Singh - RA1911003010894
 
 **The goal of this project was to build an application for tourists and local residents having a special interest in objects named after famous personalities.**
 
