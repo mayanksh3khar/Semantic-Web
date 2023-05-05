@@ -1,6 +1,6 @@
 # Semantic Web Technologies Project
 
-### Mayank Shekhar - RA1911003010879
+### Mayank Shekhar
 
 **The goal of this project was to build an application for tourists and local residents having a special interest in objects named after famous personalities.**
 
